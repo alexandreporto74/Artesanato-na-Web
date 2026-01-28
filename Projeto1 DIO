@@ -1,0 +1,7 @@
+echo "# Artesanato-na-Web" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin echo https://notebooklm.google.com/notebook/4db641a8-dc87-42a3-bc8a-6592d41ce68e
+git push -u origin main
